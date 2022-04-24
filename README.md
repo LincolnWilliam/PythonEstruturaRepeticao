@@ -11,3 +11,8 @@ Est_Repeticao04 - Faça a tabuada (multiplicação) de um número informado pelo
 Est_Repeticao05 - Leia 3 notas e informe a média para o usuário
 
 Est_Repeticao06 -  Exemplo de laço infinito.
+
+Est_Repeticao07 - JOGUINHO DO USUARIO ACERTAR O NUMERO SORTEADO
+ - caso fique com erro no random, importe o pacote -> import random 
+   #sorteado = random.randrange(1, 100)
+   #print(sorteado)
