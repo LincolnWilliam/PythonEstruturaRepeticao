@@ -10,12 +10,4 @@ Est_Repeticao04 - Faça a tabuada (multiplicação) de um número informado pelo
 
 Est_Repeticao05 - Leia 3 notas e informe a média para o usuário
 
-Estu_Repeticao06 -  Foi feita uma pesquisa entre os habitantes de uma região. foram coletados os dados de idade,
-sexo (M/F) e salário. Faça um programa que calcule e mostre:
-
- - A média dos salários do grupo;
- - A maior e a menor idade do grupo;
- - A quantidade de mulheres na região;
- - A idade e o sexo da pessoa que possui o menor salário
-
-Finalize a entrada de dados ao ser digitada uma idade negativa.
+Estu_Repeticao06 -  Exemplo de laço de infinito.
