@@ -14,5 +14,5 @@ Est_Repeticao06 -  Exemplo de laço infinito.
 
 Est_Repeticao07 - JOGUINHO DO USUARIO ACERTAR O NUMERO SORTEADO
  - caso fique com erro no random, importe o pacote -> import random 
-   #sorteado = random.randrange(1, 100)
-   #print(sorteado)
+   # sorteado = random.randrange(1, 100)
+   # print(sorteado)
