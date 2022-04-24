@@ -10,4 +10,4 @@ Est_Repeticao04 - Faça a tabuada (multiplicação) de um número informado pelo
 
 Est_Repeticao05 - Leia 3 notas e informe a média para o usuário
 
-Estu_Repeticao06 -  Exemplo de laço de infinito.
+Est_Repeticao06 -  Exemplo de laço de infinito.
