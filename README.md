@@ -20,5 +20,5 @@ Est_Repeticao07 - JOGUINHO DO USUARIO ACERTAR O NUMERO SORTEADO
    #print(sorteado)
 
 Est_Repeticao08 - Contagem regressiva
-import time ---> sleep
+\\ import time ---> sleep
  - from timme import sleep
