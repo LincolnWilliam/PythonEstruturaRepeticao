@@ -18,3 +18,7 @@ Est_Repeticao07 - JOGUINHO DO USUARIO ACERTAR O NUMERO SORTEADO
    #sorteado = random.randrange(1, 100)
    
    #print(sorteado)
+
+Est_Repeticao08 - Contagem regressiva
+\\ import time ---> sleep
+ - from timme import sleep
