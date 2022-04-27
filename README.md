@@ -22,3 +22,6 @@ Est_Repeticao07 - JOGUINHO DO USUARIO ACERTAR O NUMERO SORTEADO
 Est_Repeticao08 - Contagem regressiva
 \\ import time ---> sleep
  - from timme import sleep
+
+Est_Repeticao09 - Verificando a quantidade de par e impar no intervalo
+de 1 a 50.
